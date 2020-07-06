@@ -1,5 +1,5 @@
-i = 20
-while i <= 30:
+i = 30
+while i <= 35:
     var = "lesson" + str(i) + ".py"
     myFile = open(var, "w+")
     i += 1
